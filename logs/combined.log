@@ -1,0 +1,5 @@
+{"body":{"email":"pholarkeme@gmail.com","name":"Folake","password":"Adebisi1234#"},"level":"error","message":"User already exists","method":"POST","stack":"Error: User already exists\n    at Object.signup (file:///Users/ruqoyyah/Documents/Backend/moneyio_Backend/src/services/auth.js:23:29)\n    at async file:///Users/ruqoyyah/Documents/Backend/moneyio_Backend/src/http/controllers/auth/index.js:45:20","timestamp":"2025-12-01T11:28:19.357Z","url":"/api/auth/signup"}
+{"email":"aminah@gmail.com","level":"info","message":"User logged in","timestamp":"2025-12-01T11:28:23.629Z"}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-01T11:28:49.766Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-01T11:28:57.252Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-01T11:29:03.839Z"}
