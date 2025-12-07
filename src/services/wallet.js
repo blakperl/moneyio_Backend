@@ -65,7 +65,7 @@ export const walletService = {
   },
 
   getBalance: async (userId) => {
-    const user = await walletRepository.findUserById(userId);
+    const user = await walletRepository.findById(userId);
     if (!user) throw new AppError("User not found");
     return user.balance;
   },

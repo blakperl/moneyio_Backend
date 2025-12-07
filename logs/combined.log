@@ -3,3 +3,45 @@
 {"level":"info","message":"Deposited successfully","timestamp":"2025-12-01T11:28:49.766Z"}
 {"level":"info","message":"Withdrawal successful","timestamp":"2025-12-01T11:28:57.252Z"}
 {"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-01T11:29:03.839Z"}
+{"email":"test@example.com","level":"info","message":"User signed up","timestamp":"2025-12-01T11:31:16.233Z"}
+{"email":"test@example.com","level":"info","message":"User logged in","timestamp":"2025-12-01T11:31:16.247Z"}
+{"email":"test@example.com","level":"info","message":"User signed up","timestamp":"2025-12-04T06:08:59.043Z"}
+{"email":"test@example.com","level":"info","message":"User logged in","timestamp":"2025-12-04T06:08:59.059Z"}
+{"email":"test@example.com","level":"info","message":"User signed up","timestamp":"2025-12-06T11:46:15.623Z"}
+{"email":"test@example.com","level":"info","message":"User logged in","timestamp":"2025-12-06T11:46:15.638Z"}
+{"email":"test@example.com","level":"info","message":"User signed up","timestamp":"2025-12-06T12:52:33.260Z"}
+{"email":"test@example.com","level":"info","message":"User logged in","timestamp":"2025-12-06T12:52:33.272Z"}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-06T14:34:18.926Z"}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-06T14:34:18.933Z"}
+{"level":"info","message":"Profile fetched successfully","timestamp":"2025-12-06T14:34:18.935Z","userId":1}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-06T15:12:27.685Z"}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-06T15:12:27.691Z"}
+{"level":"info","message":"Profile fetched successfully","timestamp":"2025-12-06T15:12:27.693Z","userId":1}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-06T18:28:27.861Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-06T18:28:27.908Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-06T18:28:27.917Z"}
+{"level":"info","message":"Transactions fetched successfully","timestamp":"2025-12-06T18:28:27.921Z"}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-06T18:31:50.793Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-06T18:31:50.818Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-06T18:31:50.825Z"}
+{"level":"info","message":"Transactions fetched successfully","timestamp":"2025-12-06T18:31:50.831Z"}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-06T18:33:59.720Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-06T18:33:59.747Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-06T18:33:59.754Z"}
+{"level":"info","message":"Balance","timestamp":"2025-12-06T18:33:59.755Z"}
+{"level":"info","message":"Transactions fetched successfully","timestamp":"2025-12-06T18:33:59.759Z"}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-06T18:41:06.481Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-06T18:41:06.500Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-06T18:41:06.507Z"}
+{"level":"info","message":"Balance","timestamp":"2025-12-06T18:41:06.510Z"}
+{"level":"info","message":"Transactions fetched successfully","timestamp":"2025-12-06T18:41:06.516Z"}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-07T05:58:44.051Z"}
+{"level":"info","message":"Users fetched successfully","timestamp":"2025-12-07T05:58:44.056Z"}
+{"level":"info","message":"Profile fetched successfully","timestamp":"2025-12-07T05:58:44.058Z","userId":1}
+{"email":"test@example.com","level":"info","message":"User signed up","timestamp":"2025-12-07T05:58:52.888Z"}
+{"email":"test@example.com","level":"info","message":"User logged in","timestamp":"2025-12-07T05:58:52.901Z"}
+{"level":"info","message":"Deposited successfully","timestamp":"2025-12-07T05:59:00.078Z"}
+{"level":"info","message":"Withdrawal successful","timestamp":"2025-12-07T05:59:00.208Z"}
+{"level":"info","message":"Transaction fetched successfully","timestamp":"2025-12-07T05:59:00.242Z"}
+{"level":"info","message":"Balance","timestamp":"2025-12-07T05:59:00.243Z"}
+{"level":"info","message":"Transactions fetched successfully","timestamp":"2025-12-07T05:59:00.247Z"}
