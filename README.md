@@ -1,4 +1,4 @@
-# **Moneyio Backend**
+# Moneyio Backend
 
 A backend API service developed by Ruqoyyah
 
